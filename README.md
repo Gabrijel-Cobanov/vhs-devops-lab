@@ -1,3 +1,5 @@
-# TRUE NORTH engineering
+# TRUE NORTH engineering, DevOps lab
 
-this is a placeholder file, you can find your task [here](TASK.md).
+This is a short task for the Junior DevOps (Platform) engineer at True North. The task itself can be found [here](TASK.md).
+
+## Nexus server
