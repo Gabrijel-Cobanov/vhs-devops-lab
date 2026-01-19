@@ -1,0 +1,1 @@
+podman build -t nexus:3.37.3 .
