@@ -1,0 +1,8 @@
+# nexus.container
+[Container]
+ContainerName=nexus
+Image=localhost/nexus:3.37.3
+PublishPort=18081:8081
+Volume=/tn_devops/nexus:/opt/nexus/sonatype-work
+[Install]
+WantedBy=default.target

@@ -1,1 +1,3 @@
-podman build -t nexus:3.37.3 .
+#!/bin/bash
+
+podman build -t localhost/nexus:3.37.3 .
